@@ -29,3 +29,22 @@
 <figure>
   <img src="https://github.com/mrotonik/mrotonik/blob/master/1.gif" />
 </figure>
+
+
+<h1>2.	На основі даних з Google Analytics Demo account вибрати ТРИ різні часові ряди і на їх основі шляхом застосування методів визначення аномалій визначити аномалії в поведінці системи</h1>
+<details>
+  <summary><strong>Опис коду</strong></summary>
+  <p>Цей код використовує бібліотеки Google Cloud та Google Analytics для отримання статистики звітів.</p>
+  <ul>
+    <li><code>google.oauth2.service_account</code> використовується для автентифікації за допомогою файлу у форматі JSON.</li>
+    <li><code>googleapiclient.discovery.build</code> використовується для створення сервісу Google Analytics.</li>
+  </ul>
+  <p>Основні етапи виконання коду:</p>
+  <ol>
+    <li>Завантаження файлу <code>credentials.json</code> з Google Cloud Console та зазначення шляху до нього.</li>
+    <li>Визначення <code>VIEW_ID</code> вашого облікового запису Google Analytics.</li>
+    <li>Створення сервісу Google Analytics за допомогою отриманих облікових даних.</li>
+    <li>Формування запиту до Google Analytics для отримання статистики.</li>
+    <li>Обробка отриманої відповіді та виведення результатів.</li>
+  </ol>
+</details>
