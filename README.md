@@ -1,4 +1,4 @@
-# Web_Analis
+<img src="https://github.com/mrotonik/mrotonik/blob/master/web_im.png" alt="альтернативный текст">
 <h1>На основі будь-якого access.log сформувати статистику про користувачів веб-ресурсу:</br>
     a.	Кількість користувачів за днями </br>
     b.	Ранжувати користувачів за User-Agent</br>
