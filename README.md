@@ -31,6 +31,7 @@
   <img src="https://github.com/mrotonik/mrotonik/blob/master/1.gif" />
 </figure>
 
+<h1></h1>
 
 <h1>2.	На основі даних з Google Analytics Demo account вибрати ТРИ різні часові ряди і на їх основі шляхом застосування методів визначення аномалій визначити аномалії в поведінці системи</h1>
 <details>
