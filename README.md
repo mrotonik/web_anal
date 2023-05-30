@@ -48,3 +48,6 @@
     <li>Обробка отриманої відповіді та виведення результатів.</li>
   </ol>
 </details>
+<figure>
+  <img src="https://github.com/mrotonik/mrotonik/blob/master/2_zad.gif" />
+</figure>
