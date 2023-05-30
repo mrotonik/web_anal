@@ -24,7 +24,8 @@
     <li>Виведення результатів аналізу, таких як загальна інформація про файл, кількість користувачів за днями, ранжування користувачів за User-Agent, операційними системами, країною запиту та інформації про ботів.</li>
   </ol>
     <h2>Демонстрація проекту</h2>
-    <figure>
-  <img src="https://github.com/mrotonik/mrotonik/blob/master/show2.gif" />
-</figure>
+    
 </details>
+<figure>
+  <img src="https://github.com/mrotonik/mrotonik/blob/master/1.gif" />
+</figure>
